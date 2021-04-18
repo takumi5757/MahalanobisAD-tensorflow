@@ -1,0 +1,11 @@
+opencv-python
+tensorflow-gpu
+matplotlib
+joblib
+pandas
+scipy
+numpy
+keras
+tqdm
+scikit-learn
+
